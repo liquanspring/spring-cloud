@@ -19,7 +19,6 @@ eureka:
 ---
 server:
   port: 7001
-
 spring:
   profiles: test
   application:
